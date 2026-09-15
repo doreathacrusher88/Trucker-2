@@ -217,3 +217,6 @@ Trucker 2 is available as a full free version with all features and updates incl
 ---
 
 Get ready to jump into the driver’s seat and experience the exhilarating world of truck racing with Trucker 2! Download now and start your journey!
+
+---
+**Last updated:** 2026-09-15 07:30:01 UTC
